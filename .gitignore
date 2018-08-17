@@ -4,6 +4,7 @@ xcuserdata/
 *.xcscheme
 *.xccheckout
 *.moved-aside
+*.xcodeproj/xcuserdata
 
 # AppCode
 .idea
