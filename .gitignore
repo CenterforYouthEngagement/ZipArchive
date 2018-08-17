@@ -1,6 +1,7 @@
 # Xcode
 #
 xcuserdata/
+*.xcscheme
 *.xccheckout
 *.moved-aside
 
